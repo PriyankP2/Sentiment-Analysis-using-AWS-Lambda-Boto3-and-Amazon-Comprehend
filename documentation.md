@@ -1,4 +1,4 @@
-# Assignment 8: Sentiment Analysis - Complete Documentation
+# Sentiment Analysis - Complete Documentation
 
 ## Table of Contents
 1. [Introduction](#introduction)
