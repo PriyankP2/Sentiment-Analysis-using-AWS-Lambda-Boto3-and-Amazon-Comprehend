@@ -48,13 +48,6 @@ assignment8-sentiment-analysis/
 ├── lambda_function.py                 # Lambda function code
 ├── documentation.md                   # Detailed step-by-step guide
 └── screenshots/                       # Project screenshots
-    ├── 01-iam-role-created.png
-    ├── 02-lambda-function-created.png
-    ├── 03-lambda-code-deployed.png
-    ├── 04-test-positive-sentiment.png
-    ├── 05-test-negative-sentiment.png
-    ├── 06-test-neutral-sentiment.png
-    └── 07-cloudwatch-logs.png
 ```
 
 ## 🔧 Setup Instructions
